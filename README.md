@@ -53,13 +53,13 @@
 ## 📂 Featured Projects
 
 ### 📊 Sales Performance Dashboard
-Developed an interactive Power BI dashboard to monitor KPIs, sales trends, and business performance metrics.
+. Developed an interactive Power BI dashboard to monitor KPIs, sales trends, and business performance metrics.
 
 ### 👥 Customer Data Analysis
-Analyzed customer data using Python and Excel to uncover trends and support business decisions.
+. Analyzed customer data using Python and Excel to uncover trends and support business decisions.
 
 ### 🧹 Data Cleaning Project
-Processed and cleaned raw datasets using Python (Pandas) to improve data quality and usability.
+. Processed and cleaned raw datasets using Python (Pandas) to improve data quality and usability.
 
 ---
 
