@@ -13,8 +13,6 @@
 
 . 📊 Currently pursuing Data Science & Analytics at LuxDevHQ Academy
 
-. 💼 Data Analytics Intern at M-Gas
-
 . 📈 Interested in Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making
 
 🌱 Currently improving my skills in:
